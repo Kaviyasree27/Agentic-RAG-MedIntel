@@ -1,0 +1,13 @@
+ESC / AHA 2024 CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF HEART FAILURE (HFrEF)
+
+1. FOUR FOUNDATIONAL PILLARS OF PHARMACOTHERAPY (GUIDELINE-DIRECTED MEDICAL THERAPY - GDMT)
+For all patients with symptomatic Heart Failure with Reduced Ejection Fraction (LVEF <= 40%), quadruple therapy (The 4 Pillars) reduces all-cause mortality and heart failure hospitalizations:
+- Pillar 1: ARNI (Sacubitril/Valsartan 24/26 mg to 97/103 mg BID) preferred over ACE inhibitor (e.g., Enalapril 10-20 mg BID) or ARB. When switching from an ACE inhibitor to Sacubitril/Valsartan, a strict 36-hour washout period is mandatory to prevent severe angioedema.
+- Pillar 2: Evidence-based Beta-Blocker (Bisoprolol, Carvedilol, or Metoprolol Succinate sustained-release) titrated to target doses. Beta-blockers should be initiated only in clinically euvolemic/stable patients.
+- Pillar 3: Mineralocorticoid Receptor Antagonist - MRA (Spironolactone 25-50 mg daily or Eplerenone 25-50 mg daily). Withhold or reduce dose if serum potassium K+ > 5.0 mEq/L or eGFR < 30 mL/min/1.73 m2.
+- Pillar 4: SGLT2 Inhibitor (Dapagliflozin 10 mg once daily or Empagliflozin 10 mg once daily) indicated regardless of the presence of Type 2 Diabetes. SGLT2i can be initiated down to eGFR >= 20 mL/min.
+
+2. CONTRAINDICATIONS & SAFETY MONITORING
+- Verapamil and Diltiazem (non-dihydropyridine calcium channel blockers) are strictly contraindicated in HFrEF due to negative inotropic effects leading to worsening heart failure.
+- NSAIDs (e.g., Ibuprofen, Naproxen, Celecoxib) must be avoided as they cause sodium and water retention, blunt diuretic efficacy, and worsen renal hemodynamics.
+- Serum potassium and creatinine must be monitored 1-2 weeks after initiating or up-titrating ARNI, ACEi, or Spironolactone.

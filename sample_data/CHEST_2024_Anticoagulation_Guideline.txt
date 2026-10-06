@@ -1,0 +1,14 @@
+CHEST / ACC 2024 GUIDELINES: ORAL ANTICOAGULATION IN ATRIAL FIBRILLATION & VTE
+
+1. RISK STRATIFICATION AND FIRST-LINE ANTICOAGULANTS
+- In non-valvular Atrial Fibrillation (AF) with CHA2DS2-VASc score >= 2 in men or >= 3 in women, Direct Oral Anticoagulants (DOACs) are strongly recommended over Warfarin (VKA) due to superior efficacy in reducing ischemic stroke and significantly lower rates of intracranial hemorrhage.
+- DOAC Options:
+  * Apixaban (Eliquis): Standard dose 5 mg BID. Reduce to 2.5 mg BID if the patient meets at least TWO of the following ABC criteria: Age >= 80 years, Body weight <= 60 kg, Serum Creatinine >= 1.5 mg/dL.
+  * Rivaroxaban (Xarelto): Standard dose 20 mg once daily taken with the evening meal. Reduce dose to 15 mg once daily if CrCl is 15-49 mL/min.
+  * Dabigatran (Pradaxa): Standard dose 150 mg BID. Reduce to 110 mg or 75 mg BID if CrCl 15-30 mL/min.
+
+2. DRUG-DRUG INTERACTIONS AND BLEEDING RISKS
+- Concomitant use of DOACs with NSAIDs or Aspirin significantly elevates major gastrointestinal bleeding risks without providing additional stroke risk reduction unless an acute coronary syndrome or stent placement has occurred within the past 12 months.
+- Strong dual inhibitors of CYP3A4 and P-glycoprotein (e.g., Ketoconazole, Itraconazole, Ritonavir) significantly increase DOAC plasma concentrations and are contraindicated.
+- Warfarin reversal: 4-Factor Prothrombin Complex Concentrate (4F-PCC) plus IV Vitamin K (Phytonadione 10 mg) is the first-line reversal strategy for life-threatening Warfarin hemorrhage (INR > 5.0 with active bleeding).
+- Specific DOAC Reversal Agents: Idarucizumab (Praxbind) for Dabigatran reversal; Andexanet alfa for Apixaban and Rivaroxaban reversal.

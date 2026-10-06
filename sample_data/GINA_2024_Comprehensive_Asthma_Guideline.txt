@@ -1,0 +1,46 @@
+GINA 2024 GLOBAL STRATEGY FOR ASTHMA MANAGEMENT AND PREVENTION
+
+SECTION 1: PATHOPHYSIOLOGY AND CLINICAL DEFINITION
+Asthma is a heterogeneous disease, usually characterized by chronic airway inflammation. It is defined by the history of respiratory symptoms such as wheezing, shortness of breath, chest tightness, and cough that vary over time and in intensity, together with variable expiratory airflow limitation. Airway hyperresponsiveness to direct or indirect stimuli and chronic airway remodeling (including goblet cell hyperplasia, subepithelial fibrosis, and smooth muscle hypertrophy) contribute to clinical chronicity.
+
+SECTION 2: DIAGNOSTIC CRITERIA & OBJECTIVE TESTING
+1. Spirometry: Demonstration of variable expiratory airflow limitation is required for formal diagnosis:
+   - Positive Bronchodilator Reversibility (BDR) Test: An increase in FEV1 of > 12% and > 200 mL from baseline 10-15 minutes after administering 200-400 mcg of Albuterol/Salbutamol.
+   - Excessive diurnal Peak Expiratory Flow (PEF) variability: Average daily diurnal PEF variability > 10% in adults over 1-2 weeks.
+2. Fractional Exhaled Nitric Oxide (FeNO): FeNO > 50 ppb in adults indicates significant eosinophilic airway inflammation and predicts high likelihood of responsiveness to Inhaled Corticosteroids (ICS).
+
+SECTION 3: GINA STEPWISE PHARMACOTHERAPY (TRACK 1 VS TRACK 2)
+The GINA guidelines recommend two distinct treatment tracks for adolescent and adult patients:
+
+TRACK 1 (PREFERRED): Low-dose Inhaled Corticosteroid (ICS) + Formoterol as the Single Maintenance and Reliever Therapy (SMART / MART).
+- Step 1 & 2: As-needed low-dose ICS-Formoterol (e.g., Budesonide/Formoterol 160/4.5 mcg 1 inhalation as needed for symptom relief). No daily maintenance dose required in mild asthma.
+- Step 3: Low-dose maintenance ICS-Formoterol (1 inhalation daily or BID) PLUS as-needed low-dose ICS-Formoterol for symptom relief.
+- Step 4: Medium-dose maintenance ICS-Formoterol (2 inhalations BID) PLUS as-needed low-dose ICS-Formoterol for relief.
+- Step 5: High-dose maintenance ICS-Formoterol plus add-on Long-Acting Muscarinic Antagonist (LAMA, e.g., Tiotropium) and phenotypic assessment for Biologic therapy.
+
+TRACK 2 (ALTERNATIVE): ICS-LABA maintenance with Short-Acting Beta-2 Agonist (SABA) as reliever.
+- SABA monotherapy (Albuterol alone without ICS) is NO LONGER RECOMMENDED by GINA due to increased risks of severe exacerbations and asthma-related mortality.
+- Step 1: Take low-dose ICS whenever SABA is taken.
+- Step 2: Daily low-dose ICS maintenance + as-needed SABA.
+- Step 3: Daily low-dose ICS-LABA maintenance + as-needed SABA.
+- Step 4: Daily medium/high-dose ICS-LABA maintenance + as-needed SABA.
+
+SECTION 4: PHENOTYPING & TARGETED BIOLOGIC THERAPY FOR SEVERE ASTHMA
+For patients with uncontrolled severe asthma despite Step 4 or 5 optimized inhaler therapy:
+1. Anti-IgE Monoclonal Antibody (Omalizumab): Indicated for severe allergic asthma with elevated serum IgE and positive skin prick or in vitro testing to perennial aeroallergens.
+2. Anti-IL-5 / IL-5R Therapies (Mepolizumab, Reslizumab, Benralizumab): Indicated for severe eosinophilic asthma (blood eosinophils >= 150-300 cells/mcL). Significantly reduces exacerbation rates and oral corticosteroid dependence.
+3. Anti-IL-4R-alpha (Dupilumab): Blocks both IL-4 and IL-13 signaling. Indicated for eosinophilic asthma and severe asthma associated with atopic dermatitis or chronic rhinosinusitis with nasal polyps.
+4. Anti-TSLP (Tezepelumab): Targets thymic stromal lymphopoietin upstream; indicated for severe refractory asthma regardless of baseline biomarker status (broad-spectrum non-Type 2 and Type 2 asthma).
+
+SECTION 5: ACUTE EXACERBATION MANAGEMENT (STATUS ASTHMATICUS)
+- Mild-to-Moderate Exacerbation: Inhaled SABA (Albuterol 4-10 puffs every 20 minutes for the first hour via spacer), Controlled oxygen therapy to maintain SpO2 93-95% in adults, and Oral Systemic Corticosteroids (Prednisone 40-50 mg daily for 5-7 days).
+- Severe / Life-Threatening Exacerbation:
+  * Nebulized Albuterol (2.5-5 mg) combined with Ipratropium Bromide (0.5 mg) every 20 minutes or continuous.
+  * Systemic IV Corticosteroids (e.g., Methylprednisolone 40-80 mg/day).
+  * Intravenous Magnesium Sulfate (2 g IV infusion over 20 minutes) for patients not responding to initial therapy with FEV1 < 50%.
+  * High-flow nasal cannula or non-invasive positive pressure ventilation (NIV); avoid delayed intubation if respiratory exhaustion or hypercapnia occurs.
+
+SECTION 6: CONTRAINDICATED MEDICATIONS & SAFETY ALERTS
+- Non-selective Beta-Blockers (e.g., Propranolol, Timolol eye drops): Strictly contraindicated as they can trigger fatal bronchospasm. Cardioselective beta-blockers (e.g., Bisoprolol, Metoprolol) may be used with caution if cardiologically essential.
+- Aspirin and NSAIDs (Ibuprofen, Naproxen, Ketorolac): Contraindicated in Aspirin-Exacerbated Respiratory Disease (AERD / Samter's Triad: asthma, chronic rhinosinusitis with nasal polyposis, and aspirin sensitivity).
+- Sedatives / Hypnotics: Strictly avoid during acute exacerbations due to risk of respiratory depression.

@@ -1,0 +1,17 @@
+ADA / KDIGO 2024 CONSENSUS REPORT: MANAGEMENT OF TYPE 2 DIABETES, HYPERGLYCEMIA & NEPHROPATHY
+
+1. GLYCEMIC TARGETS AND DRUG SELECTION HIERARCHY
+- Individualized HbA1c target for most non-pregnant adults is < 7.0%. For elderly patients with multiple comorbidities, hypoglycemia risk, or limited life expectancy, a relaxed target of < 7.5% - 8.0% is appropriate.
+- First-Line Dual Therapy:
+  * Metformin + Comprehensive Lifestyle Modifications.
+  * SGLT2 Inhibitor (Empagliflozin, Dapagliflozin, or Canagliflozin) or GLP-1 Receptor Agonist (Semaglutide, Dulaglutide) with proven cardiovascular and renal benefit.
+
+2. RENAL THRESHOLDS & METFORMIN SAFETY
+- eGFR >= 60 mL/min/1.73 m2: Metformin full dose (up to 2000-2550 mg daily). Monitor renal function annually.
+- eGFR 45 to 59 mL/min/1.73 m2: Continue Metformin full dose. Monitor eGFR every 3-6 months.
+- eGFR 30 to 44 mL/min/1.73 m2: Reduce Metformin maximum daily dose to <= 1000 mg daily (e.g., 500 mg BID). Initiation in drug-naive patients is not recommended.
+- eGFR < 30 mL/min/1.73 m2: Metformin is ABSOLUTELY CONTRAINDICATED due to severe risk of lactic acidosis. Discontinue immediately.
+
+3. SGLT2 INHIBITORS (ORGAN PROTECTION)
+- SGLT2 inhibitors provide nephroprotection and delay progression to end-stage renal disease (ESRD) in patients with eGFR >= 20 mL/min and urinary albumin-to-creatinine ratio (uACR) >= 200 mg/g.
+- Instruct patients regarding euglycemic Diabetic Ketoacidosis (euDKA) risks during acute illness, prolonged fasting, or perioperative periods; temporarily withhold SGLT2i 3-4 days prior to major surgery.

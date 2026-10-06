@@ -1,0 +1,20 @@
+KDIGO & ADA 2024 CLINICAL PRACTICE GUIDELINE SUMMARY: HYPERTENSION IN DIABETES AND CKD
+
+SECTION 1: BLOOD PRESSURE TARGETS AND FIRST-LINE THERAPY
+In adults with concomitant Type 2 Diabetes Mellitus, Hypertension, and Chronic Kidney Disease (with persistent albuminuria uACR >= 30 mg/g), the recommended systolic blood pressure target is < 120-130 mmHg.
+First-line pharmacotherapy MUST include either an ACE inhibitor (e.g., Lisinopril, Ramipril) or an Angiotensin II Receptor Blocker (ARB, e.g., Losartan, Telmisartan) titrated to the highest approved tolerated dose. ACE inhibitors reduce progression of renal disease and cardiovascular events.
+
+SECTION 2: DUAL RAAS BLOCKADE WARNINGS
+Routine combination of an ACE inhibitor with an ARB or a direct renin inhibitor is strongly NOT recommended due to increased risks of acute kidney injury, severe hyperkalemia, and syncope without additional cardiovascular benefit.
+Co-administration of an ACE inhibitor with a Mineralocorticoid Receptor Antagonist (MRA like Spironolactone or Eplerenone) requires extreme caution in CKD patients with baseline eGFR < 45 mL/min or baseline Serum Potassium > 4.5 mEq/L. Serum potassium and creatinine MUST be rechecked within 1-2 weeks of initiation.
+
+SECTION 3: ALTERNATIVE SECOND-LINE ANTIHYPERTENSIVES
+If blood pressure targets are not met with maximally tolerated ACEi/ARB monotherapy:
+1. Long-acting Dihydropyridine Calcium Channel Blockers (DHP-CCBs, e.g., Amlodipine 5-10 mg daily) are the preferred add-on choice. DHP-CCBs do not cause hyperkalemia and effectively lower peripheral vascular resistance.
+2. Thiazide or Thiazide-like diuretics (e.g., Chlorthalidone, Indapamide) if eGFR >= 30 mL/min, or Loop diuretics (e.g., Furosemide, Torsemide) if eGFR < 30 mL/min.
+
+SECTION 4: METFORMIN RENAL DOSING THRESHOLDS
+In patients with CKD:
+- eGFR >= 45 mL/min: No dose adjustment needed, but monitor renal function annually.
+- eGFR 30-44 mL/min: Maximum recommended dose is 1000 mg/day; do not initiate in new patients.
+- eGFR < 30 mL/min: Metformin is strictly CONTRAINDICATED due to the risk of lactic acidosis.

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedIntel | Clinical AI Assistant</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css?v=14">
+    <style>
+        .file-input-hidden { display: none; }
+    </style>
+</head>
+<body>
+    <div class="app-layout">
+        <!-- Left Sidebar -->
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="brand-icon">🏥</div>
+                <div class="brand-info">
+                    <h2>MedIntel</h2>
+                    <span>Clinical AI Assistant</span>
+                </div>
+            </div>
+
+            <!-- + New Chat Button -->
+            <button class="btn-new-chat" id="newChatBtn">
+                <span>+ New Chat</span>
+            </button>
+
+            <!-- Upload Documents -->
+            <div class="sidebar-card">
+                <div class="card-title">📁 Upload Documents</div>
+                <div class="card-desc">Upload clinical guidelines or medical notes</div>
+                
+                <input type="file" id="fileInput" class="file-input-hidden" multiple accept=".pdf,.txt,.docx">
+                <div class="dropzone" id="dropzone">
+                    <div class="dropzone-icon">📄</div>
+                    <div class="dropzone-text">Drag & drop files or <span>browse</span></div>
+                    <div class="selected-files" id="selectedFilesList"></div>
+                </div>
+
+                <button class="btn btn-secondary w-full" id="uploadBtn">
+                    <span id="uploadBtnText">Process</span>
+                </button>
+                <span id="chunkCount" style="display:none;"></span>
+            </div>
+
+            <!-- Recent Documents -->
+            <div class="sidebar-card">
+                <div style="display:flex; justify-content:space-between; align-items:center;">
+                    <div class="card-title" style="margin:0;">Recent</div>
+                    <span id="docCountBadge" style="font-size:0.75rem; color:var(--primary); font-weight:600;">0 files</span>
+                </div>
+                <div class="doc-memory-container" id="docMemoryList">
+                    <div class="no-docs-text">Loading recent documents...</div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Top Header -->
+            <div class="main-top-header">
+                <h1>Autonomous Clinical Decision Support</h1>
+            </div>
+
+            <!-- 4 Top Observability Metrics in 1 Row Side-by-Side -->
+            <div class="metrics-row-top">
+                <div class="top-metric-card">
+                    <span class="top-metric-label">Faithfulness</span>
+                    <span class="top-metric-val text-green" id="metricGrounding">--</span>
+                </div>
+                <div class="top-metric-card">
+                    <span class="top-metric-label">Citations</span>
+                    <span class="top-metric-val text-blue" id="metricCitations">--</span>
+                </div>
+                <div class="top-metric-card">
+                    <span class="top-metric-label">Safety Alerts</span>
+                    <span class="top-metric-val text-yellow" id="metricSafety">--</span>
+                </div>
+                <div class="top-metric-card">
+                    <span class="top-metric-label">Agent Latency</span>
+                    <span class="top-metric-val" id="metricLatency" style="color: #c084fc;">--</span>
+                </div>
+            </div>
+
+            <!-- Attached Document Banner in Chat -->
+            <div class="chat-doc-banner" id="chatDocBanner" style="display:none;">
+                <div class="chat-doc-header">
+                    <div style="display:flex; align-items:center; gap:0.6rem;">
+                        <span style="font-size:1.3rem;">📄</span>
+                        <div>
+                            <strong class="chat-doc-title" id="chatDocTitle">Document Name</strong>
+                            <span class="chat-doc-meta" id="chatDocMeta">(Active Focus Document)</span>
+                        </div>
+                    </div>
+                    <button class="btn-preview-doc" id="toggleDocPreviewBtn">👁️ View Document Content</button>
+                </div>
+                <div class="chat-doc-body" id="docPreviewBody" style="display:none;">
+                    <div class="doc-text-preview" id="docTextPreviewContent">Loading...</div>
+                </div>
+            </div>
+
+            <!-- Conversation Thread Container -->
+            <div class="chat-thread-container" id="chatThreadContainer">
+                <div class="empty-chat-state" id="emptyChatState">
+                    <div class="empty-chat-icon">🩺</div>
+                    <div class="empty-chat-title">Ready for Clinical Inquiry</div>
+                    <div class="empty-chat-desc">Select a document from Recent or ask any clinical question below to begin.</div>
+                </div>
+            </div>
+
+            <!-- Bottom Docked Query Bar -->
+            <div class="bottom-query-bar">
+                <div class="query-input-wrapper">
+                    <textarea id="queryInput" rows="2" placeholder="Enter clinical question, medication check, or diagnostic scenario..."></textarea>
+                    <button class="btn btn-primary" id="runQueryBtn" style="min-width: 130px; height: 50px;">
+                        <span>Run</span>
+                    </button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="/static/js/app.js?v=14"></script>
+</body>
+</html>

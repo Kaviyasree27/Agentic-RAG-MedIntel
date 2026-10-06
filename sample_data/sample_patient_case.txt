@@ -1,0 +1,34 @@
+CLINICAL DISCHARGE SUMMARY & PROGRESS NOTE
+Patient Name: John Doe
+Age: 58 | Sex: Male | Height: 175 cm | Weight: 84 kg
+MRN: 94820-MED
+
+CHIEF COMPLAINT:
+Follow-up for uncontrolled blood pressure and routine diabetic kidney disease evaluation.
+
+PAST MEDICAL HISTORY:
+1. Type 2 Diabetes Mellitus (12 years duration).
+2. Stage 2 Essential Hypertension.
+3. Chronic Kidney Disease (CKD), Stage 3a documented on prior visit.
+
+CURRENT MEDICATIONS:
+- Metformin Hydrochloride 1000 mg PO BID
+- Lisinopril 20 mg PO QD
+- Atorvastatin 40 mg PO QHS
+- Aspirin 81 mg PO QD
+
+PHYSICAL EXAMINATION:
+- Blood Pressure: 152/94 mmHg (confirmed on repeat measurement)
+- Heart Rate: 72 bpm, regular rhythm
+- BMI: 27.4 kg/m2 (Overweight)
+
+CURRENT LABORATORY FINDINGS:
+- Serum Creatinine: 1.8 mg/dL
+- Blood Urea Nitrogen (BUN): 28 mg/dL
+- Serum Potassium: 4.8 mEq/L
+- Serum Sodium: 139 mEq/L
+- Hemoglobin A1c: 7.8 %
+- Urine Albumin-to-Creatinine Ratio (uACR): 180 mg/g (Moderate Albuminuria / Microalbuminuria)
+
+CLINICAL IMPRESSION & QUESTION:
+Blood pressure remains above target (<130/80 mmHg). The care team is evaluating whether to add Spironolactone 25 mg QD or switch/escalate to combination therapy. Need safety analysis regarding Lisinopril + Spironolactone dual therapy, eGFR assessment, and alternative first-line agents.

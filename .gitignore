@@ -1,0 +1,24 @@
+# Environment Variables (Secrets)
+.env
+*.env
+.env.local
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Local databases & model caches
+chroma_db/
+models_cache/
+.pytest_cache/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
