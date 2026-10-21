@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  medintel-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: medintel-clinical-rag
+    ports:
+      - "5000:5000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=5000
+      - FLASK_ENV=production
+    env_file:
+      - .env
+    volumes:
+      # Persistent vector database storage across container restarts
+      - chroma_data:/app/chroma_db
+      # Persistent model cache so models don't re-download
+      - model_cache:/app/models_cache
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:5000/api/documents"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+volumes:
+  chroma_data:
+    driver: local
+  model_cache:
+    driver: local

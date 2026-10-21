@@ -165,4 +165,6 @@ if __name__ == "__main__":
     print("=" * 60)
     print("[MedIntel] Flask Application Running on http://127.0.0.1:5000")
     print("=" * 60)
-    app.run(host="127.0.0.1", port=5000, debug=False)
+    host = os.getenv("HOST", "0.0.0.0")
+    port = int(os.getenv("PORT", 5000))
+    app.run(host=host, port=port, debug=False)

@@ -122,6 +122,22 @@ python app.py
 ```
 Open your browser at **http://127.0.0.1:5000** to view the live dashboard!
 
+### 🐳 Run with Docker (Production Container)
+
+Run the complete multi-agent system and vector database in an isolated container with zero manual setup:
+
+`ash
+# 1. Start the application with Docker Compose
+docker compose up -d --build
+
+# 2. View live logs
+docker compose logs -f
+
+# 3. Stop the application
+docker compose down
+`
+Open **http://localhost:5000** in your browser!
+
 ---
 
 ## 📂 Project Structure
